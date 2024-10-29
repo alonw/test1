@@ -1,4 +1,4 @@
-name: teoria
+name: test1
 type: web  # Defines the type of the application (e.g., web, worker)
 env: node  # Specifies the runtime environment
 buildCommand: npm install  # Command to install dependencies
